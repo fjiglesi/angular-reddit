@@ -10,5 +10,5 @@ export class AppComponent {
     console.log(`Adding article[title: ${title.value}, value:${link.value}]`);
     return false;
   }
-  title = 'app works!';
+  
 }
